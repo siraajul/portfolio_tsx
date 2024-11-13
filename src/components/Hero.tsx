@@ -11,7 +11,7 @@ export default function Hero() {
               <div className="w-full h-full rounded-full overflow-hidden border-4 border-white shadow-lg">
                 <img
                   src="https://avatars.githubusercontent.com/u/28106814?v=4"
-                  alt="Alex Chen"
+                  alt="Sirajul Islam"
                   className="w-full h-full object-cover"
                 />
               </div>
