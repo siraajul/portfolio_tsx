@@ -35,7 +35,6 @@ Welcome to my portfolio website! This modern, responsive web application showcas
 - TypeScript
 - Tailwind CSS
 - React Router v6
-- Framer Motion
 
 ### Development Tools
 - Vite
@@ -54,7 +53,7 @@ Welcome to my portfolio website! This modern, responsive web application showcas
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/siraajul/portfolio.git
 ```
 
 2. Navigate to project directory
@@ -161,9 +160,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Your Name - [@siraajul](https://twitter.com/siraaajul) - shirajulislamparvez@gmail.com
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
+Project Link: [https://github.com/yourusername/portfolio](https://github.com/siraajul/portfolio)
 
 ---
 
