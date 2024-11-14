@@ -41,7 +41,7 @@ export default function Hero() {
                   Contact Me
                 </a>
                 <a
-                  href="/src/assets/resume_sirajul_islam.pdf"
+                  href="https://drive.google.com/file/d/1Hg5k1N45flVBwlEBgy5-eBgfskOH9Vl2/view?usp=sharing"
                   download
                   className="w-full sm:w-auto flex items-center justify-center gap-2 px-6 py-3 border-2 border-indigo-600 text-indigo-600 rounded-lg hover:bg-indigo-50 transition-colors"
                 >
