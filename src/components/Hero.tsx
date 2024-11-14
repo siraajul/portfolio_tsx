@@ -41,7 +41,7 @@ export default function Hero() {
                   Contact Me
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1gdaFJPGciB6BfTOR5rY4TBDO6I20GS0S/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1Qq6Tnhqz6KVxAOSuymd447-0D3I0w_TD/view?usp=sharing"
                   download
                   className="w-full sm:w-auto flex items-center justify-center gap-2 px-6 py-3 border-2 border-indigo-600 text-indigo-600 rounded-lg hover:bg-indigo-50 transition-colors"
                 >
