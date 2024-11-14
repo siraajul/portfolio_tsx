@@ -24,11 +24,11 @@ export default function Hero() {
                 <span className="text-indigo-600">Sirajul Islam</span> 👋
               </h1>
               <h2 className="text-xl sm:text-2xl text-gray-700 mb-6">
-                Frontend Engineer crafting beautiful Web & Mobile experiences
+                Frontend Engineer crafting beautiful Web experiences
               </h2>
               <p className="text-base sm:text-lg text-gray-600 mb-8">
                 I specialize in building responsive, user-friendly Web & Mobile
-                applications using React, Flutter and modern technologies.
+                applications using ReactJS, NodeJS and modern technologies.
                 Currently seeking new opportunities to create impactful digital
                 experiences.
               </p>
