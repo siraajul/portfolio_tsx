@@ -11,10 +11,6 @@ const skills = [
       "JavaScript",
       "React",
       "TypeScript",
-      "Dart",
-      "Flutter",
-      "Java",
-      "Python",
     ],
   },
   {
