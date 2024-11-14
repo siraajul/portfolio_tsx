@@ -27,7 +27,7 @@ export default function Hero() {
                 Frontend Engineer crafting beautiful Web experiences
               </h2>
               <p className="text-base sm:text-lg text-gray-600 mb-8">
-                I specialize in building responsive, user-friendly Web & Mobile
+                I specialize in building responsive, user-friendly Web
                 applications using ReactJS, NodeJS and modern technologies.
                 Currently seeking new opportunities to create impactful digital
                 experiences.
