@@ -2,6 +2,17 @@ import React from "react";
 import { Code2, Palette, Layout, Sparkles } from "lucide-react";
 
 const skills = [
+   {
+    category: "Mobile App Development",
+    icon: <Code2 className="w-6 h-6" />,
+    items: [
+      "Flutter",
+      "Dart",
+      "GetX",
+      "SwiftUI",
+      "JetPack Compose",
+    ],
+  },
   {
     category: "Frontend Development",
     icon: <Code2 className="w-6 h-6" />,
