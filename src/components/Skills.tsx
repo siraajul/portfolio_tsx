@@ -17,11 +17,10 @@ const skills = [
     category: "Frontend Development",
     icon: <Code2 className="w-6 h-6" />,
     items: [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
+      " HTML5 - CSS3",
+      "JavaScript - TypeScript",
       "React",
-      "TypeScript",
+      "NEXT.js",
     ],
   },
   {
@@ -31,7 +30,7 @@ const skills = [
       "Tailwind CSS",
       "Responsive Design",
       "Next UI",
-      "UI/UX Best Practices",
+      "AntDesign",
     ],
   },
   {
