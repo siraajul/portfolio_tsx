@@ -35,11 +35,6 @@ const skills = [
     ],
   },
   {
-    category: "Tools & Workflow",
-    icon: <Layout className="w-6 h-6" />,
-    items: ["Git", "VS Code", "Webpack", "Vite", "npm"],
-  },
-  {
     category: "Additional Skills",
     icon: <Sparkles className="w-6 h-6" />,
     items: [
