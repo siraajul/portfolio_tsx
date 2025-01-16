@@ -7,14 +7,11 @@ const skills = [
     icon: <TabletSmartphone className="w-6 h-6" />,
     items: [
       "Flutter",
-      "Dart",
-      "GetX",
       "SwiftUI",
-      "JetPack Compose",
     ],
   },
-  {
-    category: "Frontend Development",
+  /*{
+    category: "Web Development",
     icon: <Code2 className="w-6 h-6" />,
     items: [
       " HTML5 - CSS3",
@@ -33,14 +30,16 @@ const skills = [
       "AntDesign",
     ],
   },
+  */
   {
     category: "Additional Skills",
     icon: <Sparkles className="w-6 h-6" />,
     items: [
       "RESTful APIs",
       "Performance Optimization",
-      "Web Accessibility",
-      "Cross-browser Compatibility",
+      "Firebase",
+      "Appwrite"
+      "GetX",
     ],
   },
 ];
