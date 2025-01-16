@@ -10,7 +10,7 @@ const skills = [
       "SwiftUI",
     ],
   },
-  {
+ /* {
     category: "Web Development",
     icon: <Code2 className="w-6 h-6" />,
     items: [
@@ -30,7 +30,7 @@ const skills = [
       "AntDesign",
     ],
   },
-  
+   */
   {
     category: "Additional Skills",
     icon: <Sparkles className="w-6 h-6" />,
@@ -38,7 +38,7 @@ const skills = [
       "RESTful APIs",
       "Performance Optimization",
       "Firebase",
-      "Appwrite"
+      "Appwrite",
       "GetX",
     ],
   },
