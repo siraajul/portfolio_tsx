@@ -24,7 +24,7 @@ export default function Hero() {
                 <span className="text-indigo-600">Sirajul Islam</span> 👋
               </h1>
               <h2 className="text-xl sm:text-2xl text-gray-700 mb-6">
-                Mobile Application Engineer crafting beautiful Mobileexperiences
+                Mobile Application Engineer crafting beautiful Mobile experiences
               </h2>
               <p className="text-base sm:text-lg text-gray-600 mb-8">
                 I specialize in building responsive, user-friendly Mobile
