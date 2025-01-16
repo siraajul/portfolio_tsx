@@ -24,11 +24,11 @@ export default function Hero() {
                 <span className="text-indigo-600">Sirajul Islam</span> 👋
               </h1>
               <h2 className="text-xl sm:text-2xl text-gray-700 mb-6">
-                Mobile App & FrontEnd Engineer crafting beautiful Mobile & Web experiences
+                Mobile Application Engineer crafting beautiful Mobileexperiences
               </h2>
               <p className="text-base sm:text-lg text-gray-600 mb-8">
-                I specialize in building responsive, user-friendly Mobile & Web
-                applications using Flutter, NEXT.js and modern technologies.
+                I specialize in building responsive, user-friendly Mobile
+                applications using Flutter and other modern technologies. 
                 Currently seeking new opportunities to create impactful digital
                 experiences.
               </p>
@@ -50,14 +50,14 @@ export default function Hero() {
                 </a>
                 <div className="flex gap-4 mt-4 sm:mt-0">
                   <a
-                    href="https://github.com"
+                    href="https://github.com/siraajul"
                     className="p-2 text-gray-600 hover:text-indigo-600 transition-colors"
                     aria-label="GitHub Profile"
                   >
                     <Github size={24} />
                   </a>
                   <a
-                    href="https://linkedin.com"
+                    href="https://linkedin.com/in/siraajul"
                     className="p-2 text-gray-600 hover:text-indigo-600 transition-colors"
                     aria-label="LinkedIn Profile"
                   >
